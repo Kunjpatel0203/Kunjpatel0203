@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kunjpatel0234" target="blank"><img src="https://img.shields.io/twitter/follow/kunjpatel0234?logo=twitter&style=for-the-badge" alt="kunjpatel0234" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and FRONT-END DEV**
+- 🌱 I’m currently learning **DSA and FULL-STACK DEV**
 
-- 💬 Ask me about **MERN,IOS**
+- 💬 Ask me about **FULL-STACK,DSA**
 
 - 📫 How to reach me **kunjpatel020304@gmail.com**
 
